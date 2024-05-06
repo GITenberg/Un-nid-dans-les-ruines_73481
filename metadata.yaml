@@ -1,0 +1,36 @@
+_repo: Un-nid-dans-les-ruines_73481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tinseau, Léon de
+    aliases:
+    - Tinseau, Leon de
+    - De Tinseau, Léon
+    - Tinseau, Antoine-Joseph-Léon de
+    - Tinseau, Léon de, comte
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '7530'
+    url: http://www.gutenberg.org/2009/agents/7530
+    wikipedia: https://fr.wikipedia.org/wiki/L%C3%A9on_de_Tinseau
+description: ''
+gutenberg_issued: '2024-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73481'
+language: fr
+pgterms:marc904: https://archive.org/details/unniddanslesruin00tins
+pgterms:marc905: 20230311004050tinseau
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aParis :$bNelson, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Un nid dans les ruines
+url: http://www.gutenberg.org/ebooks/73481
